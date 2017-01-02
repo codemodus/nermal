@@ -1,4 +1,4 @@
-package nermal
+package norm
 
 import (
 	"fmt"
